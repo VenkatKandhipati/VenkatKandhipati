@@ -7,6 +7,6 @@ Hi, I'm Venkat Kandhipati!<br><br>🔭 I’m currently working on my Home Lab Se
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
