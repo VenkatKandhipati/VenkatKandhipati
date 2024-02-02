@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Venkat Kandhipati!<br><br>🔭 I’m currently working on my Home Lab Server<br>🌱 I’m currently learning about the Cloud (AWS)<br>💬 Ask me about my interest in the Security field<br>
+Hi, I'm Venkat Kandhipati! I am based out of Southern California and graduted from UCI with a B.S. in Computer Science and Engineering.<br><br>🔭 I’m currently working on my Home Lab Server<br>🌱 I’m currently learning about the Cloud (AWS)<br>💬 Ask me about my interest in the Security field<br>
 
 
 # 💻 Tech Stack:
